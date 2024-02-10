@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+
+/* .row{
+    display: flex;
+    
+} */
+
+.shop-Image{
+
+    width: 200px;
+    height: 200px;
+    border: 1px solid  rgb(12, 18, 190);
+    border-radius: 10px;
+    
+   
+}
+
+
+.Item-img{
+    width: 100px;
+    height: 100px;
+  
+    
+}
+
+.item-qty{
+    width: 70px;
+}
